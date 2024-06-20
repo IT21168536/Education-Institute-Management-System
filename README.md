@@ -3,6 +3,16 @@ Certainly! Below is a detailed and well-structured `README.md` file for your Edu
 ```markdown
 # Shilpa Private Education Institute Management System
 
+# Batch - Group ID - ITP_WD_B01_G12(T12)
+### Group Leader -IT21357930 Senavirathna W.H.D.A
+### Member 2 - IT21168536 - Lakshan R.K.C
+### Member 3 - IT21232886 - Nimsara M.K.C
+### Member 4 - IT21172014 - Karunarathna L.M.J.T
+### Member 5 - IT21313998 - Rasara S.H.K
+### Member 6 - IT21357176 - Rubasinghe K.T.M
+### Member 7 - IT21387012 Pinidiya Y.H
+### Member 8 - IT21245206 Nuwanpriya K.M.A
+
 ## Overview
 
 The Shilpa Private Education Institute, located in the Rathnapura District, opened its doors in 2019. With a commitment to continuous product improvement and maintaining the highest quality standards in education, the institute caters to around 3000 students and employs 50 teachers. This web-based management system was developed to facilitate the seamless handling of all educational activities, even during challenging times like the pandemic.
